@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(233, 228, 228);
+}
+.header-hero-bg{
+    height: 650px;
+    width: 100%;
+    /* background-color: rgb(147, 147, 204); */
+    background-image: url(heroImg.webp);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+
+}
+
+.blur-bg{
+height: 100%;
+width: 100%;
+background-color: rgba(0, 0, 0, 0.389);
+}
+header{
+    height: 130px;
+    width: 100%;
+    background-color:rgba(0, 0, 0, 0.092);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.headerWrapper{
+    height: 90px;
+    width: 90%;
+    background-color: white;
+    border-radius: 50px;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+/* .header-content{
+    height: 100%;
+    width: 95%;
+    background-color: purple;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+.Logo{
+    height: 70%;
+    width: 240px;
+    /* background-color: red; */
+    & img{
+        height: 100%;
+        width: 100%;
+        object-fit: contain;
+    }
+}
+nav{
+    height: 100%;
+    width: 500px;
+    /* background-color: green; */
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+    align-items: center;
+    & li{
+        list-style-type: none;
+        font-size: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 600;
+    }
+}
