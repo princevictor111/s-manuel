@@ -7,13 +7,13 @@
 body{
     height: 100vh;
     width: 100%;
-    background-color: rgb(233, 228, 228);
+    background-color: white;
 }
 .header-hero-bg{
-    height: 650px;
+    height: 600px;
     width: 100%;
     /* background-color: rgb(147, 147, 204); */
-    background-image: url(heroImg.webp);
+    background-image: url( aboutImg.webp);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -26,7 +26,7 @@ width: 100%;
 background-color: rgba(0, 0, 0, 0.389);
 }
 header{
-    height: 130px;
+    height: 100px;
     width: 100%;
     background-color:rgba(0, 0, 0, 0.092);
     display: flex;
@@ -34,8 +34,8 @@ header{
     align-items: center;
 }
 .headerWrapper{
-    height: 90px;
-    width: 90%;
+    height: 60px;
+    width:78%;
     background-color: white;
     border-radius: 50px;
     display: flex;
@@ -75,4 +75,987 @@ nav{
         font-weight: 600;
         cursor: pointer;
     }
+}
+
+.imagecontent{
+    height: 200px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size:20px
+    bac
+
+}
+
+.About{
+    height: 90px;
+    width: 20%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 45px;
+}    
+
+.p{
+    width: 40%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size:17px
+    
+}
+
+.p12{
+  
+    width: 40%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size:17px
+
+}
+
+
+.aboutcontent{
+     height: 350px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    flex-direction: column;
+}
+
+.About1{
+    
+    width: 80%;
+    height: 50px;
+    
+}
+
+.p1{
+     
+    width: 80%;
+    height: 70px;
+}
+
+.p2{
+    height: 80px;
+    width: 80%;
+    
+}
+
+span{
+    font-weight: 700;
+}
+ 
+
+.Aboutwrapper{
+    height: 220px;
+    width: 100%;
+    background-image: url(image.jpeg );
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    justify-content: center;
+    display: flex;
+     
+}
+
+.blured-bg2{
+height: 100%;
+width: 100%;
+background-color: rgba(19, 17, 17, 0.685);
+align-items: center;
+    justify-content: center;
+    display: flex
+}
+
+
+
+.Aboutwrapper1{
+     
+    width: 90%;
+    height: 170px;
+    align-items: center;
+    
+    display: flex;
+}
+
+
+.hundred{
+    width: 25%;
+    height: 170px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+     
+
+}
+
+.hundred1{
+    font-weight: 700;
+    font-size: 48px;
+    font-family: Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+}
+
+.hundred2{
+    font-weight: 400;
+    font-size: 16px;
+    font-family: Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+
+}
+
+.hundred5{
+    
+     width: 25%;
+    height: 170px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+}
+
+.hundred51{
+    font-weight: 700;
+    font-size: 48px;
+    font-family: Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+
+}
+
+.hundred52{
+    font-weight: 400;
+    font-size: 16px;
+    font-family: Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+}
+
+.ninepng{
+     
+     width: 25%;
+    height: 170px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+}
+
+.ninepng95{
+    font-weight: 700;
+    font-size: 48px;
+    font-family: Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+
+}
+
+.ninepng9{
+    font-weight: 400;
+    font-size: 16px;
+    font-family: Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+}
+
+.two{
+     
+     width: 25%;
+    height: 170px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+}
+
+.two2{
+    font-weight: 700;
+    font-size: 48px;
+    font-family: Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+}
+
+.two02{
+    font-weight: 400;
+    font-size: 16px;
+    font-family: Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+
+}
+
+.aimcontainer{
+    background-color: white;
+    height: 800px;
+    justify-content: center;
+    display: flex;
+    
+    align-items: center;
+
+}
+
+.aimcontainer2{
+    
+    height: 700px;
+    width: 80%;
+}
+
+.aimcontainer3{
+     
+    height: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.aim{
+    width: 40%;
+    height: 350px;
+     background-color: white;
+    border-radius: 20px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.arrowcon{
+    
+    display: flex;
+      
+}
+
+.arrowimage{
+    width: 40px;
+    height: 40px;
+     background-color: rgb(212, 196, 196);
+    border-radius: 10px;
+    & img{
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+    }
+}
+
+.mission{
+    height: 80px;
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    width: 33%;
+    justify-content: center;
+    display: flex;
+     
+
+}
+
+.mission1{
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: gray; 
+}
+
+.myimage1{
+    background-color: aqua;
+    width: 40%;
+    height: 350px;
+    border-radius: 20px;
+    justify-content: center;
+    border-radius: 20px;
+    & img{
+        width: 100%;
+        height: 100%;
+        border-radius: 20px;
+    }
+}
+
+
+.rapper{
+    
+    align-items: center;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+     
+
+}
+
+.myimage2{
+      
+    width: 40%;
+    height: 350px;
+    border-radius: 20px;
+    justify-content: center;
+    border-radius: 20px;
+    & img{
+        width: 100%;
+        height: 100%;
+        border-radius: 20px;
+    }
+
+}
+
+.rapper2{
+    background-color:white;
+    width: 40%;
+    height: 350px;
+    border-radius: 20px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.eyesimg{
+    display: flex;
+}
+
+.eyesimage{
+    width: 40px;
+    height: 40px;
+     background-color: rgb(212, 196, 196);
+    border-radius: 10px;
+    & img{
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+    }
+
+}
+
+.vision1{
+    height: 80px;
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+     
+    & img {
+        background-color: gray;
+    }
+}
+
+.vision2{
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: rgb(172, 155, 155);
+}
+
+.theview{
+    background-color: whitesmoke; 
+    height: 500px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.theview1{
+    height: 120px;
+    width: 80%;
+     
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.view{
+     font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+     font-weight: 600;
+     height: 40px;
+
+        
+}
+
+.view2{
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+    color: rgb(146, 129, 129);
+    height: 40px;
+}
+
+
+.firstcon{
+     background-color: white;
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+     flex-direction: column;
+     font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+}
+
+.secondcon{
+     
+    width: 80%;
+    height: 80%;
+}
+
+.imagecon{
+    background-color: rgb(189, 175, 175);
+    width: 40px;
+    height: 20%;
+     justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.theviewbox{
+    height: 300px;  
+     
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.ex{
+     
+    height: 60px;
+    align-items: center;
+    display: flex;
+}
+
+.we{
+    color: gray;
+
+}
+
+.firstcon1{
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+     flex-direction: column;
+     font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+}
+
+.secondcon1{
+     
+    width: 80%;
+    height: 80%;
+}
+
+.imagecon1{
+    background-color: rgb(189, 175, 175);
+    width: 40px;
+    height: 20%;
+     justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+
+ 
+
+.ex1{
+     
+    height: 60px;
+    align-items: center;
+    display: flex;
+}
+
+.we1{
+    color: gray;
+
+}
+ 
+
+.firstcon2{
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+     flex-direction: column;
+     font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+}
+
+.secondcon2{
+     
+    width: 80%;
+    height: 80%;
+}
+
+.imagecon2{
+    background-color: rgb(189, 175, 175);
+    width: 40px;
+    height: 20%;
+     justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+
+ 
+
+.ex2{
+     
+    height: 60px;
+    align-items: center;
+    display: flex;
+}
+
+.we2{
+    color: gray;
+
+}
+ 
+
+.firstcon3{
+     background-color: white;
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+     flex-direction: column;
+     font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+}
+
+.secondcon3{
+     
+    width: 80%;
+    height: 80%;
+}
+
+.imagecon3{
+    background-color: rgb(189, 175, 175);
+    width: 40px;
+    height: 20%;
+     justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+
+ 
+
+.ex3{
+      
+    height: 60px;
+    align-items: center;
+    display: flex;
+    
+}
+
+.we3{
+    color: gray;
+
+}
+
+
+.holder{
+    height: 700px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.holderhead{
+     
+    justify-content: space-around;
+    width: 70%;
+    
+     
+
+}
+ 
+.holder1{
+     
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+      
+}
+
+
+
+.leader{
+    width: 100%;
+    height: 80px;
+    
+    justify-content: center;
+    display: flex;
+    font-weight: 700;
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    align-items: center;
+}
+
+.success{
+    width: 100%;
+    height: 40px;
+    
+    justify-content: center;
+    display: flex;
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+     color: gray;
+
+}
+
+
+.image4{
+    background-color: whitesmoke;
+    height: 400px;
+    width: 30%;
+    border-radius: 20px;
+    & img {
+        width: 100%;
+        height: 85%;
+        border-radius: 20px 20px 0px 0px;
+    }
+     
+     
+}
+
+.ceo{
+     
+    width: 55%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+     
+}
+
+.HR{
+      
+    height: 10%;
+    width: 97%;
+    display: flex;
+     color: gray;
+    justify-content: center;
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+}
+
+
+.image5{
+    background-color: whitesmoke;
+    height: 400px;
+    width: 30%;
+    border-radius: 20px;
+    & img {
+        width: 100%;
+        height: 85%;
+        border-radius: 20px 20px 0px 0px;
+    }
+     
+     
+}
+
+.RER{
+     
+    width: 67%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+     
+}
+
+.online{
+      
+    height: 10%;
+    width: 80%;
+    display: flex;
+     color: gray;
+    justify-content: center;
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+}
+
+.image6{
+    background-color:whitesmoke;
+    height: 400px;
+    width: 30%;
+    border-radius: 20px;
+    & img {
+        width: 100%;
+        height: 85%;
+        border-radius: 20px 20px 0px 0px;
+    }
+     
+     
+}
+
+.off{
+     
+    width: 65%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+     
+}
+
+.law{
+       
+    height: 10%;
+    width: 77%;
+    display: flex;
+     color: gray;
+    justify-content: center;
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+}
+
+
+.aboutcon{
+
+    background-image: url( aboutfooterImg.webp );
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    justify-content: center;
+    display: flex;
+    height: 350px;
+    width: 100%;
+align-items: center;
+display: flex;
+    justify-content: center;
+    
+}
+
+.aboutblur{
+height: 100%;
+width: 100%;
+background-color: rgba(23, 7, 66, 0.389);
+}
+
+.about2{
+    
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.work{
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    color: white;
+}
+
+
+
+.transform{
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.buttons{
+     
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+    
+    & button {
+        height: 50%;
+         
+    }
+
+}
+
+.buttones{
+    
+    height: 100px;
+    width: 21%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+
+}
+
+
+
+
+
+.T{
+    background-color:white;
+    color: black;
+    width: 120px;
+    border-radius: 15px;
+    border: none;
+    font-weight: 700;
+}
+
+
+
+.S{
+    background-color: rgb(27, 27, 39);
+    color: white;
+    width: 190px;
+    border-radius: 15px;
+    border: none;
+    font-weight: 700;
+
+}
+
+
+
+.lastcon{
+    background-color: rgb(7, 38, 78);
+    width:100%;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: white;
+}
+
+.lastcon1{
+   color: white;
+    width: 70%;
+    height: 300px;
+    display: flex;
+}
+
+.lastcon2{
+     color: white;
+    width:20%;
+    height: 300px;
+     font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+}
+
+
+.imagelogo{
+    
+    width: 120px;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+.imagep{
+    width: 200px;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+.imagees{
+    width: 60px;
+    justify-content: space-between;
+    display: flex;
+     
+}
+
+.quick{
+    color: white;
+    font-weight: 700;
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+}
+
+.listcon{
+    justify-content: space-around;
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+     color: white;
+    height: 60%;
+    width: 200px;
+     font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+     
+}
+
+.concon{
+    
+    width: 280px;
+    height: 100%;
+    font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+}
+.contcon{
+    font-weight: 700;
+    color: white;
+     font-family:Poppins, "Poppins Fallback", Arial, Helvetica, sans-serif;
+     
+     height: 50px;
+}
+
+.yh{
+    display: flex;
+    width: 270px;
+    justify-content: space-between;
+}
+
+.imggg{
+     color: white;
+    width: 20px;
+     
+
+}
+ 
+
+
+.phoncon{display: flex;
+    width: 220px;
+    color: white;
+     
+    
+     
+     
+     
+
+}
+.numbers{
+    height:60px;
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+     
+     
+}
+
+.imss{display: flex;
+    width: 240px;
+    color: white;
+    
+    
+    
+     
+     
+     
+
+}
+.yes{
+    width: 90%;
+    height: 70px;
+     
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+     
+}
+
+.L{
+     
+    width: 190px;
+    height: 40px;
 }
